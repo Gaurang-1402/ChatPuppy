@@ -1,0 +1,51 @@
+[0.348s] Invoking command in '/home/chief-of-mischief/Desktop/pupper_ws/build/mini_pupper_gazebo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/chief-of-mischief/Desktop/pupper_ws/src/mini_pupper_ros/mini_pupper_gazebo -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_gazebo
+[0.408s] -- The C compiler identification is GNU 11.3.0
+[0.560s] -- The CXX compiler identification is GNU 11.3.0
+[0.568s] -- Detecting C compiler ABI info
+[0.640s] -- Detecting C compiler ABI info - done
+[0.673s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.674s] -- Detecting C compile features
+[0.675s] -- Detecting C compile features - done
+[0.688s] -- Detecting CXX compiler ABI info
+[0.820s] -- Detecting CXX compiler ABI info - done
+[0.831s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.831s] -- Detecting CXX compile features
+[0.832s] -- Detecting CXX compile features - done
+[0.835s] -- Found ament_cmake: 1.3.3 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.059s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[1.147s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.213s] -- Found ament_lint_auto: 0.12.4 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.580s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.582s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.592s] -- Added test 'lint_cmake' to check CMake code style
+[1.593s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.593s] -- Added test 'xmllint' to check XML markup files
+[1.597s] -- Configuring done
+[1.597s] -- Generating done
+[1.597s] -- Build files have been written to: /home/chief-of-mischief/Desktop/pupper_ws/build/mini_pupper_gazebo
+[1.634s] Invoked command in '/home/chief-of-mischief/Desktop/pupper_ws/build/mini_pupper_gazebo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/chief-of-mischief/Desktop/pupper_ws/src/mini_pupper_ros/mini_pupper_gazebo -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_gazebo
+[1.635s] Invoking command in '/home/chief-of-mischief/Desktop/pupper_ws/build/mini_pupper_gazebo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/chief-of-mischief/Desktop/pupper_ws/build/mini_pupper_gazebo -- -j24 -l24
+[1.728s] Invoked command in '/home/chief-of-mischief/Desktop/pupper_ws/build/mini_pupper_gazebo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/chief-of-mischief/Desktop/pupper_ws/build/mini_pupper_gazebo -- -j24 -l24
+[1.807s] Invoking command in '/home/chief-of-mischief/Desktop/pupper_ws/build/mini_pupper_gazebo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/chief-of-mischief/Desktop/pupper_ws/build/mini_pupper_gazebo
+[1.807s] -- Install configuration: ""
+[1.808s] -- Execute custom install script
+[1.808s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/launch/gazebo.launch.py
+[1.818s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/worlds/default.world
+[1.823s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/worlds/outdoor.world
+[1.835s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/worlds/playground.world
+[1.845s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_gazebo/share/ament_index/resource_index/package_run_dependencies/mini_pupper_gazebo
+[1.859s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_gazebo/share/ament_index/resource_index/parent_prefix_path/mini_pupper_gazebo
+[1.866s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/environment/ament_prefix_path.sh
+[1.875s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/environment/ament_prefix_path.dsv
+[1.880s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/environment/path.sh
+[1.887s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/environment/path.dsv
+[1.895s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/local_setup.bash
+[1.902s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/local_setup.sh
+[1.910s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/local_setup.zsh
+[1.918s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/local_setup.dsv
+[1.927s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/package.dsv
+[1.935s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_gazebo/share/ament_index/resource_index/packages/mini_pupper_gazebo
+[1.943s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/cmake/mini_pupper_gazeboConfig.cmake
+[1.951s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/cmake/mini_pupper_gazeboConfig-version.cmake
+[1.962s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/package.xml
+[1.982s] Invoked command in '/home/chief-of-mischief/Desktop/pupper_ws/build/mini_pupper_gazebo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/chief-of-mischief/Desktop/pupper_ws/build/mini_pupper_gazebo

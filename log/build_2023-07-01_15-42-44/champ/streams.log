@@ -1,0 +1,41 @@
+[0.102s] Invoking command in '/home/chief-of-mischief/Desktop/pupper_ws/build/champ': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/chief-of-mischief/Desktop/pupper_ws/build/champ -- -j24 -l24
+[0.642s] Invoked command in '/home/chief-of-mischief/Desktop/pupper_ws/build/champ' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/chief-of-mischief/Desktop/pupper_ws/build/champ -- -j24 -l24
+[0.665s] Invoking command in '/home/chief-of-mischief/Desktop/pupper_ws/build/champ': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/chief-of-mischief/Desktop/pupper_ws/build/champ
+[0.677s] -- Install configuration: ""
+[0.679s] -- Execute custom install script
+[0.681s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ/include/champ/.git
+[0.682s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ/include/champ/LICENSE
+[0.682s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ/include/champ/README.md
+[0.682s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ/include/champ/bla/basic_linear_algebra.h
+[0.682s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ/include/champ/bla/memory_delegate.h
+[0.682s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ/include/champ/body_controller/body_controller.h
+[0.682s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ/include/champ/geometry/geometry.h
+[0.682s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ/include/champ/kinematics/kinematics.h
+[0.682s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ/include/champ/leg_controller/leg_controller.h
+[0.682s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ/include/champ/leg_controller/phase_generator.h
+[0.682s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ/include/champ/leg_controller/trajectory_planner.h
+[0.684s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ/include/champ/macros/macros.h
+[0.685s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ/include/champ/odometry/odometry.h
+[0.687s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ/include/champ/quadruped_base/quadruped_base.h
+[0.689s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ/include/champ/quadruped_base/quadruped_components.h
+[0.692s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ/include/champ/quadruped_base/quadruped_joint.h
+[0.693s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ/include/champ/quadruped_base/quadruped_leg.h
+[0.694s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ/include/champ/utils/urdf_loader.h
+[0.696s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ/include/champ/utils/xmlrpc_helpers.h
+[0.697s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ/share/ament_index/resource_index/package_run_dependencies/champ
+[0.697s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ/share/ament_index/resource_index/parent_prefix_path/champ
+[0.698s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ/share/champ/environment/ament_prefix_path.sh
+[0.698s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ/share/champ/environment/ament_prefix_path.dsv
+[0.698s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ/share/champ/environment/path.sh
+[0.698s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ/share/champ/environment/path.dsv
+[0.698s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ/share/champ/local_setup.bash
+[0.698s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ/share/champ/local_setup.sh
+[0.698s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ/share/champ/local_setup.zsh
+[0.698s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ/share/champ/local_setup.dsv
+[0.698s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ/share/champ/package.dsv
+[0.757s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ/share/ament_index/resource_index/packages/champ
+[0.757s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ/share/champ/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.758s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ/share/champ/cmake/champConfig.cmake
+[0.758s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ/share/champ/cmake/champConfig-version.cmake
+[0.758s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ/share/champ/package.xml
+[0.776s] Invoked command in '/home/chief-of-mischief/Desktop/pupper_ws/build/champ' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/chief-of-mischief/Desktop/pupper_ws/build/champ

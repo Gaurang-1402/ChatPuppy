@@ -1,0 +1,57 @@
+[0.056s] Invoking command in '/home/chief-of-mischief/Desktop/pupper_ws/build/champ_config': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/chief-of-mischief/Desktop/pupper_ws/src/champ/champ/champ_config -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/chief-of-mischief/Desktop/pupper_ws/install/champ_config
+[0.414s] -- The C compiler identification is GNU 11.3.0
+[0.414s] -- The CXX compiler identification is GNU 11.3.0
+[0.414s] -- Detecting C compiler ABI info
+[0.414s] -- Detecting C compiler ABI info - done
+[0.414s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.415s] -- Detecting C compile features
+[0.415s] -- Detecting C compile features - done
+[0.415s] -- Detecting CXX compiler ABI info
+[0.416s] -- Detecting CXX compiler ABI info - done
+[0.417s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.418s] -- Detecting CXX compile features
+[0.418s] -- Detecting CXX compile features - done
+[0.419s] -- Found ament_cmake: 1.3.3 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.713s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[0.793s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.105s] -- Configuring done
+[1.108s] -- Generating done
+[1.109s] -- Build files have been written to: /home/chief-of-mischief/Desktop/pupper_ws/build/champ_config
+[1.117s] Invoked command in '/home/chief-of-mischief/Desktop/pupper_ws/build/champ_config' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/chief-of-mischief/Desktop/pupper_ws/src/champ/champ/champ_config -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/chief-of-mischief/Desktop/pupper_ws/install/champ_config
+[1.121s] Invoking command in '/home/chief-of-mischief/Desktop/pupper_ws/build/champ_config': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/chief-of-mischief/Desktop/pupper_ws/build/champ_config -- -j24 -l24
+[1.229s] Invoked command in '/home/chief-of-mischief/Desktop/pupper_ws/build/champ_config' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/chief-of-mischief/Desktop/pupper_ws/build/champ_config -- -j24 -l24
+[1.273s] Invoking command in '/home/chief-of-mischief/Desktop/pupper_ws/build/champ_config': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/chief-of-mischief/Desktop/pupper_ws/build/champ_config
+[1.293s] -- Install configuration: ""
+[1.295s] -- Execute custom install script
+[1.296s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_config/share/champ_config/launch/bringup.launch.py
+[1.312s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_config/share/champ_config/launch/gazebo.launch.py
+[1.325s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_config/share/champ_config/launch/navigate.launch.py
+[1.336s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_config/share/champ_config/launch/slam.launch.py
+[1.355s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_config/share/champ_config/config/autonomy/navigation.yaml
+[1.366s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_config/share/champ_config/config/autonomy/slam.yaml
+[1.378s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_config/share/champ_config/config/gait/gait.yaml
+[1.387s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_config/share/champ_config/config/joints/joints.yaml
+[1.398s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_config/share/champ_config/config/links/links.yaml
+[1.422s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_config/share/champ_config/maps/map.pgm
+[1.435s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_config/share/champ_config/maps/map.yaml
+[1.447s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_config/share/champ_config/maps/playground.pgm
+[1.455s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_config/share/champ_config/maps/playground.yaml
+[1.487s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_config/share/champ_config/worlds/default.world
+[1.488s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_config/share/champ_config/worlds/outdoor.world
+[1.500s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_config/share/champ_config/worlds/playground.world
+[1.517s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_config/share/ament_index/resource_index/package_run_dependencies/champ_config
+[1.518s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_config/share/ament_index/resource_index/parent_prefix_path/champ_config
+[1.549s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_config/share/champ_config/environment/ament_prefix_path.sh
+[1.563s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_config/share/champ_config/environment/ament_prefix_path.dsv
+[1.575s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_config/share/champ_config/environment/path.sh
+[1.622s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_config/share/champ_config/environment/path.dsv
+[1.633s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_config/share/champ_config/local_setup.bash
+[1.636s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_config/share/champ_config/local_setup.sh
+[1.636s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_config/share/champ_config/local_setup.zsh
+[1.644s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_config/share/champ_config/local_setup.dsv
+[1.652s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_config/share/champ_config/package.dsv
+[1.671s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_config/share/ament_index/resource_index/packages/champ_config
+[1.675s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_config/share/champ_config/cmake/champ_configConfig.cmake
+[1.675s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_config/share/champ_config/cmake/champ_configConfig-version.cmake
+[1.683s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_config/share/champ_config/package.xml
+[1.742s] Invoked command in '/home/chief-of-mischief/Desktop/pupper_ws/build/champ_config' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/chief-of-mischief/Desktop/pupper_ws/build/champ_config

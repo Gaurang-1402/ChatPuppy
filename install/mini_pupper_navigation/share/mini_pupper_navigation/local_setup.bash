@@ -1,0 +1,1 @@
+/home/chief-of-mischief/Desktop/pupper_ws/build/mini_pupper_navigation/ament_cmake_environment_hooks/local_setup.bash

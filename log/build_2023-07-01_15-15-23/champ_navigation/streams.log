@@ -1,0 +1,46 @@
+[0.051s] Invoking command in '/home/chief-of-mischief/Desktop/pupper_ws/build/champ_navigation': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/chief-of-mischief/Desktop/pupper_ws/src/champ/champ/champ_navigation -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/chief-of-mischief/Desktop/pupper_ws/install/champ_navigation
+[0.411s] -- The C compiler identification is GNU 11.3.0
+[0.411s] -- The CXX compiler identification is GNU 11.3.0
+[0.411s] -- Detecting C compiler ABI info
+[0.411s] -- Detecting C compiler ABI info - done
+[0.411s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.412s] -- Detecting C compile features
+[0.412s] -- Detecting C compile features - done
+[0.413s] -- Detecting CXX compiler ABI info
+[0.413s] -- Detecting CXX compiler ABI info - done
+[0.414s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.414s] -- Detecting CXX compile features
+[0.414s] -- Detecting CXX compile features - done
+[0.414s] -- Found ament_cmake: 1.3.3 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.683s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[0.760s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.885s] -- Configuring done
+[0.888s] -- Generating done
+[0.892s] -- Build files have been written to: /home/chief-of-mischief/Desktop/pupper_ws/build/champ_navigation
+[0.898s] Invoked command in '/home/chief-of-mischief/Desktop/pupper_ws/build/champ_navigation' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/chief-of-mischief/Desktop/pupper_ws/src/champ/champ/champ_navigation -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/chief-of-mischief/Desktop/pupper_ws/install/champ_navigation
+[0.902s] Invoking command in '/home/chief-of-mischief/Desktop/pupper_ws/build/champ_navigation': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/chief-of-mischief/Desktop/pupper_ws/build/champ_navigation -- -j24 -l24
+[0.976s] Invoked command in '/home/chief-of-mischief/Desktop/pupper_ws/build/champ_navigation' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/chief-of-mischief/Desktop/pupper_ws/build/champ_navigation -- -j24 -l24
+[1.035s] Invoking command in '/home/chief-of-mischief/Desktop/pupper_ws/build/champ_navigation': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/chief-of-mischief/Desktop/pupper_ws/build/champ_navigation
+[1.052s] -- Install configuration: ""
+[1.053s] -- Execute custom install script
+[1.056s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_navigation/share/champ_navigation/launch/navigate.launch.py
+[1.060s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_navigation/share/champ_navigation/launch/slam.launch.py
+[1.063s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_navigation/share/champ_navigation/rviz/navigation.rviz
+[1.089s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_navigation/share/champ_navigation/rviz/navigation_minimal.rviz
+[1.115s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_navigation/share/champ_navigation/rviz/slam.rviz
+[1.141s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_navigation/share/ament_index/resource_index/package_run_dependencies/champ_navigation
+[1.167s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_navigation/share/ament_index/resource_index/parent_prefix_path/champ_navigation
+[1.205s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_navigation/share/champ_navigation/environment/ament_prefix_path.sh
+[1.229s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_navigation/share/champ_navigation/environment/ament_prefix_path.dsv
+[1.255s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_navigation/share/champ_navigation/environment/path.sh
+[1.266s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_navigation/share/champ_navigation/environment/path.dsv
+[1.276s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_navigation/share/champ_navigation/local_setup.bash
+[1.289s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_navigation/share/champ_navigation/local_setup.sh
+[1.301s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_navigation/share/champ_navigation/local_setup.zsh
+[1.313s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_navigation/share/champ_navigation/local_setup.dsv
+[1.326s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_navigation/share/champ_navigation/package.dsv
+[1.337s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_navigation/share/ament_index/resource_index/packages/champ_navigation
+[1.349s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_navigation/share/champ_navigation/cmake/champ_navigationConfig.cmake
+[1.360s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_navigation/share/champ_navigation/cmake/champ_navigationConfig-version.cmake
+[1.373s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_navigation/share/champ_navigation/package.xml
+[1.401s] Invoked command in '/home/chief-of-mischief/Desktop/pupper_ws/build/champ_navigation' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/chief-of-mischief/Desktop/pupper_ws/build/champ_navigation

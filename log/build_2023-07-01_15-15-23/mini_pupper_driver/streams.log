@@ -1,0 +1,28 @@
+[0.887s] Invoking command in '/home/chief-of-mischief/Desktop/pupper_ws/build/mini_pupper_driver': PYTHONPATH=/home/chief-of-mischief/Desktop/pupper_ws/build/mini_pupper_driver/prefix_override:/home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_driver/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/chief-of-mischief/Desktop/pupper_ws/build/mini_pupper_driver/build --no-deps install_data
+[1.270s] running develop
+[1.593s] running egg_info
+[1.594s] creating mini_pupper_driver.egg-info
+[1.597s] writing mini_pupper_driver.egg-info/PKG-INFO
+[1.597s] writing dependency_links to mini_pupper_driver.egg-info/dependency_links.txt
+[1.598s] writing entry points to mini_pupper_driver.egg-info/entry_points.txt
+[1.599s] writing requirements to mini_pupper_driver.egg-info/requires.txt
+[1.599s] writing top-level names to mini_pupper_driver.egg-info/top_level.txt
+[1.600s] writing manifest file 'mini_pupper_driver.egg-info/SOURCES.txt'
+[1.600s] reading manifest file 'mini_pupper_driver.egg-info/SOURCES.txt'
+[1.601s] writing manifest file 'mini_pupper_driver.egg-info/SOURCES.txt'
+[1.603s] running build_ext
+[1.603s] Creating /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_driver/lib/python3.10/site-packages/mini-pupper-driver.egg-link (link to .)
+[1.603s] Installing display_interface script to /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_driver/lib/mini_pupper_driver
+[1.603s] Installing servo_interface script to /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_driver/lib/mini_pupper_driver
+[1.603s] 
+[1.603s] Installed /home/chief-of-mischief/Desktop/pupper_ws/build/mini_pupper_driver
+[1.603s] running install_data
+[1.603s] creating /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_driver/share/ament_index
+[1.603s] creating /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_driver/share/ament_index/resource_index
+[1.603s] creating /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_driver/share/ament_index/resource_index/packages
+[1.604s] copying resource/mini_pupper_driver -> /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_driver/share/ament_index/resource_index/packages
+[1.604s] copying package.xml -> /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_driver/share/mini_pupper_driver
+[1.604s] creating /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_driver/share/mini_pupper_driver/launch
+[1.604s] copying launch/display_interface.launch.py -> /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_driver/share/mini_pupper_driver/launch
+[1.605s] copying launch/servo_interface.launch.py -> /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_driver/share/mini_pupper_driver/launch
+[1.644s] Invoked command in '/home/chief-of-mischief/Desktop/pupper_ws/build/mini_pupper_driver' returned '0': PYTHONPATH=/home/chief-of-mischief/Desktop/pupper_ws/build/mini_pupper_driver/prefix_override:/home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_driver/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/chief-of-mischief/Desktop/pupper_ws/build/mini_pupper_driver/build --no-deps install_data

@@ -1,0 +1,4 @@
+Invoking command in '/home/chief-of-mischief/Desktop/pupper_ws/build/champ_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/chief-of-mischief/Desktop/pupper_ws/build/champ_msgs -- -j24 -l24
+Invoked command in '/home/chief-of-mischief/Desktop/pupper_ws/build/champ_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/chief-of-mischief/Desktop/pupper_ws/build/champ_msgs -- -j24 -l24
+Invoking command in '/home/chief-of-mischief/Desktop/pupper_ws/build/champ_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/chief-of-mischief/Desktop/pupper_ws/build/champ_msgs
+Invoked command in '/home/chief-of-mischief/Desktop/pupper_ws/build/champ_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/chief-of-mischief/Desktop/pupper_ws/build/champ_msgs

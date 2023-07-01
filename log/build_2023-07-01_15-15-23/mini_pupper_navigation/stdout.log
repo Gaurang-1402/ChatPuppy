@@ -1,0 +1,59 @@
+-- The C compiler identification is GNU 11.3.0
+-- The CXX compiler identification is GNU 11.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.3 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found ament_lint_auto: 0.12.4 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/chief-of-mischief/Desktop/pupper_ws/build/mini_pupper_navigation
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/launch/bringup.launch.py
+-- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/launch/localization.launch.py
+-- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/launch/navigation.launch.py
+-- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/launch/slam.launch.py
+-- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/config/cartographer/nav.lua
+-- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/config/cartographer/slam.lua
+-- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/config/nav2/mini_pupper.yaml
+-- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/maps/cartographer_map.pbstream
+-- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/maps/cartographer_map.pgm
+-- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/maps/cartographer_map.yaml
+-- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/maps/map.pgm
+-- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/maps/map.yaml
+-- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/maps/playground.pgm
+-- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/maps/playground.yaml
+-- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/rviz/cartographer.rviz
+-- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/rviz/navigation.rviz
+-- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/rviz/navigation_minimal.rviz
+-- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/rviz/slam.rviz
+-- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_navigation/share/ament_index/resource_index/package_run_dependencies/mini_pupper_navigation
+-- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_navigation/share/ament_index/resource_index/parent_prefix_path/mini_pupper_navigation
+-- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/environment/ament_prefix_path.sh
+-- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/environment/ament_prefix_path.dsv
+-- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/environment/path.sh
+-- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/environment/path.dsv
+-- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/local_setup.bash
+-- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/local_setup.sh
+-- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/local_setup.zsh
+-- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/local_setup.dsv
+-- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/package.dsv
+-- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_navigation/share/ament_index/resource_index/packages/mini_pupper_navigation
+-- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/cmake/mini_pupper_navigationConfig.cmake
+-- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/cmake/mini_pupper_navigationConfig-version.cmake
+-- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/package.xml

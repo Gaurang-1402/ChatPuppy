@@ -1,0 +1,43 @@
+[35m[1mConsolidate compiler generated dependencies of target quadruped_controller[0m
+[35m[1mConsolidate compiler generated dependencies of target message_relay[0m
+[35m[1mConsolidate compiler generated dependencies of target state_estimation[0m
+[ 16%] Built target message_relay
+[ 33%] Built target quadruped_controller
+[ 50%] Built target state_estimation
+[35m[1mConsolidate compiler generated dependencies of target message_relay_node[0m
+[35m[1mConsolidate compiler generated dependencies of target quadruped_controller_node[0m
+[35m[1mConsolidate compiler generated dependencies of target state_estimation_node[0m
+[ 66%] Built target message_relay_node
+[ 83%] Built target quadruped_controller_node
+[100%] Built target state_estimation_node
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_base/share/champ_base/config/ekf/base_to_footprint.yaml
+-- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_base/share/champ_base/config/ekf/footprint_to_odom.yaml
+-- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_base/share/champ_base/config/velocity_smoother/velocity_smoother.yaml
+-- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_base/lib/libquadruped_controller.so
+-- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_base/bin/quadruped_controller_node
+-- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_base/lib/libmessage_relay.so
+-- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_base/bin/message_relay_node
+-- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_base/lib/libstate_estimation.so
+-- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_base/bin/state_estimation_node
+-- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_base/lib/champ_base/quadruped_controller_node
+-- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_base/lib/champ_base/message_relay_node
+-- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_base/lib/champ_base/state_estimation_node
+-- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_base/share/ament_index/resource_index/package_run_dependencies/champ_base
+-- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_base/share/ament_index/resource_index/parent_prefix_path/champ_base
+-- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_base/share/champ_base/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_base/share/champ_base/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_base/share/champ_base/environment/path.sh
+-- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_base/share/champ_base/environment/path.dsv
+-- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_base/share/champ_base/local_setup.bash
+-- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_base/share/champ_base/local_setup.sh
+-- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_base/share/champ_base/local_setup.zsh
+-- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_base/share/champ_base/local_setup.dsv
+-- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_base/share/champ_base/package.dsv
+-- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_base/share/ament_index/resource_index/packages/champ_base
+-- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_base/share/champ_base/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_base/share/champ_base/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_base/share/champ_base/cmake/champ_baseConfig.cmake
+-- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_base/share/champ_base/cmake/champ_baseConfig-version.cmake
+-- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/champ_base/share/champ_base/package.xml

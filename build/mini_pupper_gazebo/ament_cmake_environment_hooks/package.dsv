@@ -1,0 +1,4 @@
+source;share/mini_pupper_gazebo/local_setup.bash
+source;share/mini_pupper_gazebo/local_setup.dsv
+source;share/mini_pupper_gazebo/local_setup.sh
+source;share/mini_pupper_gazebo/local_setup.zsh

@@ -1,0 +1,14 @@
+{
+  "package_name": "champ_msgs",
+  "non_idl_tuples": [
+    "/home/chief-of-mischief/Desktop/pupper_ws/src/champ/champ/champ_msgs:msg/Velocities.msg",
+    "/home/chief-of-mischief/Desktop/pupper_ws/src/champ/champ/champ_msgs:msg/PID.msg",
+    "/home/chief-of-mischief/Desktop/pupper_ws/src/champ/champ/champ_msgs:msg/Imu.msg",
+    "/home/chief-of-mischief/Desktop/pupper_ws/src/champ/champ/champ_msgs:msg/Point.msg",
+    "/home/chief-of-mischief/Desktop/pupper_ws/src/champ/champ/champ_msgs:msg/PointArray.msg",
+    "/home/chief-of-mischief/Desktop/pupper_ws/src/champ/champ/champ_msgs:msg/Joints.msg",
+    "/home/chief-of-mischief/Desktop/pupper_ws/src/champ/champ/champ_msgs:msg/Contacts.msg",
+    "/home/chief-of-mischief/Desktop/pupper_ws/src/champ/champ/champ_msgs:msg/ContactsStamped.msg",
+    "/home/chief-of-mischief/Desktop/pupper_ws/src/champ/champ/champ_msgs:msg/Pose.msg"
+  ]
+}

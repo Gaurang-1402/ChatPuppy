@@ -1,0 +1,25 @@
+[0.386s] Invoking command in '/home/chief-of-mischief/Desktop/pupper_ws/build/mini_pupper_gazebo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/chief-of-mischief/Desktop/pupper_ws/build/mini_pupper_gazebo -- -j24 -l24
+[0.713s] Invoked command in '/home/chief-of-mischief/Desktop/pupper_ws/build/mini_pupper_gazebo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/chief-of-mischief/Desktop/pupper_ws/build/mini_pupper_gazebo -- -j24 -l24
+[0.806s] Invoking command in '/home/chief-of-mischief/Desktop/pupper_ws/build/mini_pupper_gazebo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/chief-of-mischief/Desktop/pupper_ws/build/mini_pupper_gazebo
+[0.878s] -- Install configuration: ""
+[0.888s] -- Execute custom install script
+[0.889s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/launch/gazebo.launch.py
+[0.890s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/worlds/default.world
+[0.905s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/worlds/outdoor.world
+[0.905s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/worlds/playground.world
+[0.906s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_gazebo/share/ament_index/resource_index/package_run_dependencies/mini_pupper_gazebo
+[0.906s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_gazebo/share/ament_index/resource_index/parent_prefix_path/mini_pupper_gazebo
+[0.916s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/environment/ament_prefix_path.sh
+[0.918s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/environment/ament_prefix_path.dsv
+[0.920s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/environment/path.sh
+[0.920s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/environment/path.dsv
+[0.922s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/local_setup.bash
+[0.928s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/local_setup.sh
+[0.928s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/local_setup.zsh
+[0.928s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/local_setup.dsv
+[0.928s] -- Symlinking: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/package.dsv
+[0.959s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_gazebo/share/ament_index/resource_index/packages/mini_pupper_gazebo
+[0.959s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/cmake/mini_pupper_gazeboConfig.cmake
+[0.960s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/cmake/mini_pupper_gazeboConfig-version.cmake
+[0.960s] -- Up-to-date symlink: /home/chief-of-mischief/Desktop/pupper_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/package.xml
+[0.996s] Invoked command in '/home/chief-of-mischief/Desktop/pupper_ws/build/mini_pupper_gazebo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/chief-of-mischief/Desktop/pupper_ws/build/mini_pupper_gazebo
