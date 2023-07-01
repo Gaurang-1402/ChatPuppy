@@ -1,0 +1,1 @@
+/home/chief-of-mischief/Desktop/pupper_ws/build/champ/ament_cmake_core/champConfig.cmake
