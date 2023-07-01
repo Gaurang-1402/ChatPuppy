@@ -1,9 +1,0 @@
-/home/chief-of-mischief/Desktop/pupper_ws/build/mini_pupper_gazebo/CMakeFiles/uninstall.dir
-/home/chief-of-mischief/Desktop/pupper_ws/build/mini_pupper_gazebo/CMakeFiles/mini_pupper_gazebo_uninstall.dir
-/home/chief-of-mischief/Desktop/pupper_ws/build/mini_pupper_gazebo/CMakeFiles/test.dir
-/home/chief-of-mischief/Desktop/pupper_ws/build/mini_pupper_gazebo/CMakeFiles/edit_cache.dir
-/home/chief-of-mischief/Desktop/pupper_ws/build/mini_pupper_gazebo/CMakeFiles/rebuild_cache.dir
-/home/chief-of-mischief/Desktop/pupper_ws/build/mini_pupper_gazebo/CMakeFiles/list_install_components.dir
-/home/chief-of-mischief/Desktop/pupper_ws/build/mini_pupper_gazebo/CMakeFiles/install.dir
-/home/chief-of-mischief/Desktop/pupper_ws/build/mini_pupper_gazebo/CMakeFiles/install/local.dir
-/home/chief-of-mischief/Desktop/pupper_ws/build/mini_pupper_gazebo/CMakeFiles/install/strip.dir

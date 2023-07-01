@@ -1,1 +1,0 @@
-/home/chief-of-mischief/Desktop/pupper_ws/build/champ_msgs/ament_cmake_python/champ_msgs/champ_msgs.egg-info/top_level.txt

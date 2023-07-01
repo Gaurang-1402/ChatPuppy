@@ -1,5 +1,0 @@
-[console_scripts]
-rosgpt = rosgpt.rosgpt:main
-rosgpt_client_node = rosgpt.rosgpt_client_node:main
-rosgptparser_manipulator = rosgpt.rosgptparser_manipulator:main
-
