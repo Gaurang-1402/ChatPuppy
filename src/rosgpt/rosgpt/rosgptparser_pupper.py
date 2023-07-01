@@ -48,12 +48,13 @@ class PupperController(Node):
     def stop(self):
         print('Stopping the pupper ...')
         twist_msg = Twist()
-        twist_msg.linear.x = 0
-        twist_msg.linear.y = 0
-        twist_msg.linear.z = 0
-        twist_msg.angular.x = 0
-        twist_msg.angular.y = 0
-        twist_msg.angular.z = 0
+        twist_msg.linear.x = 0.0
+        twist_msg.linear.y = 0.0
+        twist_msg.linear.z = 0.0
+        twist_msg.angular.x = 0.0
+        twist_msg.angular.y = 0.0
+        twist_msg.angular.z = 0.0
+
         self.velocity_publisher.publish(twist_msg)
         print('The Robot has stopped...')
 
@@ -130,11 +131,9 @@ class PupperController(Node):
         twist_msg.linear = linear_vector
 
         try:
-            start_pose = copy.copy(self.pose)
             # Set the start time
             start_time = time.time()
-            print('start_pose: ', start_pose)
-            print('current_pose: ', self.pose)
+
             while time.time() - start_time < 5:  # Loop for 5 seconds
                 self.velocity_publisher.publish(twist_msg)
                 self.move_executor.spin_once(timeout_sec=0.5)
