@@ -341,3 +341,10 @@ doc/
 
 ## Setting files
 *.settings
+
+build/
+
+install/
+
+log/
+

@@ -55,29 +55,6 @@ tts_engine = pyttsx3.init()
 tts_lock = threading.Lock()
 
 
-def speak(text):
-    """
-    This function uses the Text-to-Speech (TTS) engine to speak the given text.
-
-    It is an optional method that can be used if you want the system to audibly
-    communicate the text messages.
-
-    Args:
-        text (str): The text to be spoken by the TTS engine.
-
-    Note:
-        This method is optional and can be used when audible communication of text
-        messages is desired. If not needed, it can be omitted from the implementation.
-    """
-    # Acquire the TTS lock to ensure exclusive access to the TTS engine
-    with tts_lock:
-        # Instruct the TTS engine to say the given text
-        tts_engine.say(text)
-
-        # Block and wait for the TTS engine to finish speaking
-        tts_engine.runAndWait()
-
-
 
 class ROSGPTNode(Node):
     def __init__(self):
@@ -229,12 +206,10 @@ class ROSGPTProxy(Resource):
         print ('[ROSGPT] Command received. ', text_command, '. Asking ChatGPT ...')
         # Run the speak function on a separate thread
         #print('text_command:', text_command,'\n')
-        threading.Thread(target=speak, args=(text_command+"Message received. Now consulting ChatGPT for a response.",)).start()
         chatgpt_response = self.askGPT(text_command)
         print ('[ROSGPT] Response received from ChatGPT. \n', str(json.loads(chatgpt_response))[:60], '...')
         #print('eval(chatgpt_response)', eval(chatgpt_response))
         # Run the speak function on a separate thread
-        threading.Thread(target=speak, args=("We have received a response from ChatGPT.",)).start()
 
         if chatgpt_response is None:
             return {'error': 'An error occurred while processing the request'}
