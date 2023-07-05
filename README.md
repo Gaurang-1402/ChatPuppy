@@ -5,9 +5,12 @@ ChatPuppy showcases the power of Language Logic Models (LLMs) by allowing users 
 Key features include:
 - A user-friendly web application providing an interactive interface for robot puppy control
 - Commands to randomize or bring the robot arm to equilibrium
+  [![output-onlinegiftools-7-1.gif](https://i.postimg.cc/Kj22RxZm/output-onlinegiftools-7-1.gif)](https://postimg.cc/KkJVWXkW)
 - Full control over the robot's directional movement, including forward, backward, left, right and robot rotation clockwise and anticlockwise (through the head or torso) commands
-- Support for commands in multiple languages
+[![pupper-2-1.gif](https://i.postimg.cc/dthBLdxt/pupper-2-1.gif)](https://postimg.cc/kBd8HVCk)
 
+- Support for commands in multiple languages
+[![output-onlinegiftools-10-1.gif](https://i.postimg.cc/HxLMF1Gs/output-onlinegiftools-10-1.gif)](https://postimg.cc/XZTXyh7T)
 
 ## ROSGPT Architecture
 
