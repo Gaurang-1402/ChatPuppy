@@ -3,7 +3,7 @@
 ChatPuppy showcases the power of Language Logic Models (LLMs) by allowing users to control robot dogs using simple, natural language instructions. The system currently operates within a simulated environment for testing and development purposes.
 
 Key features include:
-- A user-friendly web application providing an interactive interface for robot manipulator control
+- A user-friendly web application providing an interactive interface for robot puppy control
 - Commands to randomize or bring the robot arm to equilibrium
 - Full control over the robot's directional movement, including forward, backward, left, right and robot rotation clockwise and anticlockwise (through the head or torso) commands
 - Support for commands in multiple languages
