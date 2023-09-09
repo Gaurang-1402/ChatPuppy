@@ -94,11 +94,25 @@ ros2 run rosgpt rosgptparser_puppy
 
 ## Running the simulation
 
-```
+### Test in RViz
+
+Note: This step is only for PC
+
+```sh
+# Terminal 1
 source install/setup.sh
-ros2 launch  sjtu_puppy_bringup sjtu_puppy_bringup.launch.py
+ros2 launch mini_pupper_bringup bringup.launch.py joint_hardware_connected:=false rviz:=true
 ```
 
+### Test in Gazebo
+
+Note: This step is only for PC
+
+```sh
+# Terminal 1
+source install/setup.sh
+ros2 launch mini_pupper_gazebo gazebo.launch.py rviz:=true
+```
 
 Note: Please replace `<repository_url>` and `<your_api_key>` with the actual repository URL and your OpenAI API key, respectively.
 
